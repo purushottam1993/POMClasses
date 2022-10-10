@@ -1,0 +1,5 @@
+# Created at 2022-10-04T21:21:34.418
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Purush doc\New Automation Doc 26-05-2022\Pattern\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
